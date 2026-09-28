@@ -1,7 +1,7 @@
-# Graph Report - rust_repository  (2026-09-21)
+# Graph Report - rust_repository  (2026-09-28)
 
 ## Corpus Check
-- Corpus is ~11,136 words - fits in a single context window. You may not need a graph.
+- Corpus is ~12,647 words - fits in a single context window. You may not need a graph.
 
 ## Summary
 - 21 nodes · 18 edges · 3 communities (2 shown, 1 thin omitted)
@@ -35,7 +35,7 @@ Nodes (3): io, ordering, rng
 
 ## Knowledge Gaps
 - **1 isolated node(s):** `rust_wasi_markdown_parser`
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 19 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+  These have ≤1 connection - possible missing edges. (Counts symbols only; 19 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
 - **1 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
