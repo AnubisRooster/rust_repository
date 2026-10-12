@@ -1,7 +1,7 @@
-# Graph Report - rust_repository  (2026-10-05)
+# Graph Report - rust_repository  (2026-10-12)
 
 ## Corpus Check
-- Corpus is ~12,644 words - fits in a single context window. You may not need a graph.
+- Corpus is ~12,655 words - fits in a single context window. You may not need a graph.
 
 ## Summary
 - 21 nodes · 18 edges · 3 communities (0 shown, 3 thin omitted)
