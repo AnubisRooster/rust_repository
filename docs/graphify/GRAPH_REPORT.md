@@ -1,4 +1,4 @@
-# Graph Report - rust_repository  (2026-10-26)
+# Graph Report - rust_repository  (2026-11-02)
 
 ## Corpus Check
 - Corpus is ~12,501 words - fits in a single context window. You may not need a graph.
@@ -32,6 +32,6 @@
 _Questions this graph is uniquely positioned to answer:_
 
 - **What connects `rust_wasi_markdown_parser` to the rest of the system?**
-  _1 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _1 weakly-connected nodes found - possible missing edges._
 - **Should `graphify_pipeline.py` be split into smaller, more focused modules?**
   _Cohesion score 0.13333333333333333 - nodes in this community are weakly interconnected._
